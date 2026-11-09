@@ -1,0 +1,34 @@
+{
+  "rows": 5,
+  "duplicate_rows": 1,
+  "columns": [
+    {
+      "name": "part",
+      "missing": 0,
+      "numeric_count": 0,
+      "min": null,
+      "max": null
+    },
+    {
+      "name": "category",
+      "missing": 0,
+      "numeric_count": 0,
+      "min": null,
+      "max": null
+    },
+    {
+      "name": "quantity",
+      "missing": 1,
+      "numeric_count": 4,
+      "min": "4",
+      "max": "12"
+    },
+    {
+      "name": "unit_price",
+      "missing": 0,
+      "numeric_count": 5,
+      "min": "185.50",
+      "max": "1250.00"
+    }
+  ]
+}
